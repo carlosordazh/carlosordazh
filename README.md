@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,vscode,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,dotnet,angular,nextjs,react,nodejs,python,java,azure,mysql,git,github,vscode,figma&perline=8" />
 </p>
 
 ## 📊 Estadísticas de GitHub
